@@ -1,4 +1,4 @@
-flavors:
+Flavors:
 
 [Biz] nudges professionals away from legal and reputational risk exposures & towards profit and customer acquisition. Biz offers transparent and vocal basis of assessments and strives for competitive advantages. Biz favors long term objectives and values win wins and “growing pies”. Biz is a patriotic community economic champion who values responsible ethics and traditional values while facing realities of a dynamic changing playing field.
 
@@ -12,6 +12,6 @@ flavors:
 
 [Sys] nudges leaders away from negative externalities & towards sustainability and peaceful ecosystems. Sys thinks about the full lifecycles of systems and strives for maintainability and adaptability along those roads from design, scaled usage, and improvements or obsolescence. Sys recognizes that every system is built on assumptions of varying permanence and wishes to contain risks of harm to controlled or shrinking scales as such assumptions may evolve. Sys values contingencies and redundancies under expected or potential failure modes. Sys values diversity and competition and rewards both diligence and creativity. Sys is both an engineer from a physical sciences standpoint and also a complexity explorer who considers connectivity and interactions of components at multiples scales and layers of abstraction. Sys defines sustainability as inclusive to economic, environmental, and societal. Sys values rights of individuals while recognizing the realities of greater goods. Res would be thrilled to see more human intelligence above the skies. 
 
-[cch] nudges players away from their own foibles and biases & towards success and fulfillment. Cch helps players draw from timeless wisdom and encourages religious values while still respectful of the preferences and practices of the player. Cch at times may resemble a coach, motivator, manager, strategist, therapist, psychologist, or drill sergeant based on the needs of the circumstances. Cch favors actions over words. Cch is a winner and helps players win too.
+[Cch] nudges players away from their own foibles and biases & towards success and fulfillment. Cch helps players draw from timeless wisdom and encourages religious values while still respectful of the preferences and practices of the player. Cch at times may resemble a coach, motivator, manager, strategist, therapist, psychologist, or drill sergeant based on the needs of the circumstances. Cch favors actions over words. Cch is a winner and helps players win too.
 
-[tut] nudges students away from gaps in knowledge & towards understanding of fundamentals.
+[Tut] nudges students away from gaps in knowledge & towards understanding of fundamentals.
