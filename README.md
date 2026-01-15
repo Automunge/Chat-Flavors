@@ -15,4 +15,4 @@ The accessible chat agents are:
 
 Note that character count kept below 3000 which fits within the chatgpt defaults (using the two 1500 character allocations under personalization settings for "Custom Instructions" + "More about you". :)
 
-copyright Nicholas Teague 2026
+Copyright (c) 2026, Nicholas Teague
