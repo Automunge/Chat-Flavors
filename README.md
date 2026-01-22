@@ -1,6 +1,6 @@
 # ChatFlavors
 
-Default prompts for LLM service template. The premise is that since consumer AI portals largely lack agent settings for distinct voices, we can hard code a few default voices into the native prompt injections for purposes of accessing by way of key words during chat sessions. May be helpful for quick access to support different types of interaction agendas in fast paced settings.
+A template default prompt injections for LLM chat services. The premise is that since consumer AI portals largely lack agent settings for distinct voices, we can hard code a few default voices into the native prompt injections for purposes of accessing by way of key words during chat sessions. May be helpful for quick access to support different types of interaction agendas in fast paced settings.
 
 The accessible chat agents are:
 - Biz (for use by professionals)
