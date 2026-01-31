@@ -18,3 +18,5 @@ Part of the intuition behind the ChatFlavors prompt injection template is that i
 Note that character count kept below 3000 which fits within the chatgpt defaults (using the two 1500 character allocations under personalization settings for "Custom Instructions" + "More about you". :)
 
 Copyright (c) 2026, Nicholas Teague
+
+Announcements or updates to be shared to x.com/chatflavors
