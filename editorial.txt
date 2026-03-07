@@ -10,9 +10,7 @@ Although we want AI to be aware of our morals and values ideally we want it to o
 
 Some further insights of ChatFlavors are that a prompt alone will never be enough for workable guardrails. A model needs knowledge of user and external context. (Each of which are dependent on the other like a Penrose triangle.) Eg a user seeking medical care for his infant should never be subject to the same model bias as eg someone cheating on their homework.
 
-A comprehensive digest of suitable context bias is unrealistic, so the flavors instead ask the models to infer “stakes” (as in risk/reward tradeoffs), an under specified term partly because we can expect different models to have different access to user profiles and context.
-
-Part of the hope is that if different consumer model portals are to accept the flavors framework, then they can compete in their backends for how their services evaluate stakes and user profile context.
+A comprehensive digest of suitable context bias is unrealistic, so the flavors instead ask the models to infer “stakes” (as in risk/reward tradeoffs), an under specified term partly because we can expect different models to have different access to user profiles and context. Part of the hope is that if different consumer model portals are to accept the flavors framework, then they can compete in their backends for how their services evaluate stakes, user profile, and context.
 
 ChatFlavors aren’t intended as an open ended library to be built out to a “flavor store”, although such extension is fairly obvious. Instead these are meant to be an attempted survey of those most Fundamental Types Of User Profiles and Context where an unstated AI agenda is appropriate.
 
