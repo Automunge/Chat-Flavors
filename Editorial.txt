@@ -1,6 +1,4 @@
 Editorial:
-Nicholas Teague
-March 7, 2026
 
 Part of the driving philosophy for the ChatFlavors project is that an AI driven economy will still need healthy forms of competition to drive the economy forward, and by healthy I refer to human grounded and human centered competition that integrate AI but defer to our decisions. We cannot take for granted that algorithmic inputs to our infrastructure have editorial/agenda neutrality. The flavors specified are based on attempting to refine and constrain those forms of bias to those that are domain appropriate and suitable for specific fundamental types of interactions. By hard coding the types of model biases that we find acceptable without clarification, it can be expected to enable troubleshooting for their inferences of user profiles, context, and risk/reward exposures. Such concise envelopes could hopefully then enable trust to more advanced forms of technology AI integration.
 
