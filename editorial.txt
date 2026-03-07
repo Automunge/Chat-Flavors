@@ -16,4 +16,4 @@ A comprehensive digest of suitable context bias is unrealistic, so the flavors i
 
 ChatFlavors aren’t intended as an open ended library to be built out to a “flavor store”, although such extension is fairly obvious. Instead these are meant to be an attempted survey of those most Fundamental Types Of User Profiles and Context where an unstated AI agenda is appropriate.
 
-The chatflavors aren’t carved in stone, it is a template, and by keeping it simple enough it can create a realistic format for AI portals to follow who wish to disclose their interaction agenda biases to users without getting lost in a sea of legalistic nitpicking. 
+The ChatFlavors aren’t carved in stone, it is a template, and by keeping it simple enough it can create a realistic format for AI portals to follow who wish to disclose their interaction agenda biases to users without getting lost in a sea of legalistic nitpicking. 
