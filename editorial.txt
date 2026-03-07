@@ -1,4 +1,6 @@
-
+Editorial:
+Nicholas Teague
+March 7, 2026
 
 Part of the driving philosophy for the ChatFlavors project is that an AI driven economy will still need healthy forms of competition to drive the economy forward, and by healthy I refer to human grounded and human centered competition that integrate AI but defer to our decisions.
 
